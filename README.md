@@ -5,4 +5,4 @@ Tracking the eyes:
 - One eye: Gray image
 - No eyes: movement of the camera and alarm sound
 
-![](muestra.gif)
+![](processingVideo.gif)
